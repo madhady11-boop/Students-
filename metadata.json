@@ -1,0 +1,6 @@
+{
+  "name": "أستوديو التصميم الذكي - AI Prompt Studio Pro",
+  "description": "منصة احترافية لبناء البرومبتات وتحليل بوسترات الصور بدقة فائقة باستخدام الذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
